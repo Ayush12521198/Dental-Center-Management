@@ -99,8 +99,10 @@ src/
 ├── pages/
 │   ├── admin/
 │   └── patient/
+├── routes/
+│   └── ProtectedRoute.jsx
 ├── context/
-│   └── AuthContext.js
+│   └── AuthContext.jsx
 ├── mockData.js
 └── App.jsx
 ```
@@ -133,8 +135,3 @@ src/
 
 ---
 
-## 🙋‍♂️ Author
-
-**Ayush Sharma**  
-📧 [your.email@example.com](mailto:your.email@example.com)  
-🌐 [GitHub](https://github.com/your-username)
