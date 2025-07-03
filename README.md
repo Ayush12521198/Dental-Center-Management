@@ -7,9 +7,6 @@ A responsive web application for managing patients, appointments, and calendars 
 ## 🚀 Live Demo
 👉 [View Deployed App](https://your-deployed-link.vercel.app)
 
-## 📁 Repository
-👉 [GitHub Repo](https://github.com/your-username/dental-center-management)
-
 ---
 
 ## 🛠️ Tech Stack
