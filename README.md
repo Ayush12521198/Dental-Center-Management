@@ -60,7 +60,6 @@ src/
 
 ---
 
-
 ## 🛠️ Installation
 
 To get started with the Dental Center Management App, follow these steps:
@@ -68,7 +67,7 @@ To get started with the Dental Center Management App, follow these steps:
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/your-username/dental-center-management.git
-
+---
 2️⃣ Move into the project directory
 
 cd dental-center-management
