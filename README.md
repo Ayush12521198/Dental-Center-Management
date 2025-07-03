@@ -45,20 +45,7 @@ A responsive web application for managing patients, appointments, and calendars 
 
 ---
 
-## 📁 Folder Structure
-src/
-├── assets/
-├── components/
-│ └── admin/ # Layout
-├── context/
-│ └── AuthContext.js # Login & role-based access
-├── pages/
-│ └── admin/ # Dashboard, Patients, Appointments, Calendar
-│ └── patient/ # Patient profile view
-├── App.jsx
-├── main.jsx
-└── mockData.js # Seed users/patients
-
+<pre><code>## 📁 Folder Structure ```text src/ ├── assets/ ├── components/ │ └── admin/ # Layout, sidebar, UI parts ├── context/ │ └── AuthContext.js # Login & role-based access ├── pages/ │ ├── admin/ # Dashboard, Patients, Appointments, Calendar │ └── patient/ # Patient profile view ├── App.jsx ├── main.jsx └── mockData.js # Seed users/patients ``` </code></pre> 
 
 ---
 
