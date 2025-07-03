@@ -61,15 +61,40 @@ src/
 ---
 
 
-## 📦 Setup Instructions
+## 🛠️ Installation
 
+To get started with the Dental Center Management App, follow these steps:
+
+### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/your-username/dental-center-management.git
-cd dental-center-management
-npm install
-npm run dev
 
-Then open http://localhost:5173
+2️⃣ Move into the project directory
+
+cd dental-center-management
+
+3️⃣ Install dependencies
+
+You can use either npm or yarn:
+
+npm install
+# or
+yarn install
+
+4️⃣ Run the development server
+
+npm run dev
+# or
+yarn dev
+
+5️⃣ Open in browser
+
+Visit:
+
+http://localhost:5173
+
+---
+
 🔐 Mock Login Credentials
 Role	Email	Password
 Admin	admin@entnt.in	admin123
