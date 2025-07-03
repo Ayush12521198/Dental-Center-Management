@@ -46,7 +46,7 @@ A responsive web application for managing patients, appointments, and calendars 
 ---
 
 ## 📁 Project Structure
-
+```bash
 src/
 ├── components/
 │ └── admin/
