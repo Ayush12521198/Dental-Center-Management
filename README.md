@@ -5,7 +5,7 @@ A responsive web application for managing patients, appointments, and calendars 
 ---
 
 ## 🚀 Live Demo
-👉 [View Deployed App](https://your-deployed-link.vercel.app)
+👉 [View Deployed App](https://melodious-daffodil-b0eb06.netlify.app/)
 
 ---
 
